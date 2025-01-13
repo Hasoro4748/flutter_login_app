@@ -8,3 +8,9 @@
 
 2025-01-13
 
+## 메인 이미지
+<img src="./main.png" alt="메인" width="700px">
+## 유효성 검사 이미지
+<img src="./test.png" alt="유효성" width="700px">
+## 결과
+<img src="./result.png" alt="결과" width="700px">
